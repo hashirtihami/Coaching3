@@ -13,7 +13,7 @@
 <link href="themes/css/footerlinks.css" rel="stylesheet">
 
 <div class="container">
-  <h2>FAQ</h2>
+  <h2>Our Story</h2>
   <div class="panel-group" id="accordion">
     
     
@@ -124,7 +124,7 @@
 
   </div> 
   	<hr>
-	<p>We do not take any responsibility of the information shown in the website. If you have any query you can email us with the following info and email us at info@copedia.com<p>
+	<p>We do not take any responsibility of the information shown in the website. If you have any query you can email us with the following info and email us at info@kopedia.com<p>
 	<ul>
     <li>Your Coaching Name</li>
     <li>Your email address</li>

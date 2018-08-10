@@ -1,15 +1,9 @@
 <!DOCTYPE html>
-<!--
-Template Name: Luthum
-Author: <a href="http://www.os-templates.com/">OS Templates</a>
-Author URI: http://www.os-templates.com/
-Licence: Free to use under our free template licence terms
-Licence URI: http://www.os-templates.com/template-terms
--->
 <html>
 <head>
 <title>Home</title>
 <meta charset="utf-8">
+<html lang="en">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link href="layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
@@ -27,10 +21,10 @@ Licence URI: http://www.os-templates.com/template-terms
     </div>
     <div class="fl_right">
       <ul class="nospace">
-        <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="index.php"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="terms.php">Terms And Policies</a></li>
         <li><a href="faq.php">FAQ</a></li>
-        <li><a href="register.php">Register your institute</a></li>
+        <li><a href="form.php">Register your institute</a></li>
       </ul>
     </div>
   </div>
