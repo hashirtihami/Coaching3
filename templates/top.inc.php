@@ -29,7 +29,7 @@ Licence URI: http://www.os-templates.com/template-terms
       <ul class="nospace">
         <li><a href="#"><i class="fa fa-lg fa-home"></i></a></li>
         <li><a href="#">About</a></li>
-        <li><a href="#">FAQ</a></li>
+        <li><a href="faq.php">FAQ</a></li>
         <li><a href="register.php">Register your institute</a></li>
       </ul>
     </div>
