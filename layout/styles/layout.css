@@ -231,7 +231,7 @@ blockquote::before{color:rgba(255,255,255,.2);}
 
 /* Rows */
 .row0, .row0 a{color:#CBCBCB; background-color:#000000;}
-.row1{color:#FFFFFF; background-color:rgba(255,255,255,.2);}
+.row1{color:#3C1363; background-color:rgba(255,255,255,.2);}
 .row2, .row2 a{}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#CBCBCB;}

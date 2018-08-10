@@ -7,6 +7,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     }
 }
 ?>
+
 <?php 
 require 'templates/top.inc.php';
 ?>
@@ -25,7 +26,7 @@ require 'templates/top.inc.php';
 
 <div  class="container"  >
 
-	<h2 style="padding-top:30px; color:#0066ff;">Enter The Details</h2>
+	<h2 style="padding-top:30px;  color:#3C1363;">Enter The Details</h2>
 	<hr>
 	<form action="form.php" method="post">
 	  	<div class="form-group row">
@@ -85,7 +86,7 @@ require 'templates/top.inc.php';
 		      	<div class="col-lg-2 col-md-2 col-sm-10 col-xs-10 ">
 		        	<div class="form-check">
 			          <input class="form-check-input" type="radio" name='deal' id="inputdeal3" value="gold">
-			          <label class="form-check-label" for="inputdeal4">
+			          <label class="form-check-label" for="inputdeal3">
 			            	Gold
 			          </label>
 		        	</div>
