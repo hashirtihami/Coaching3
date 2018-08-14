@@ -41,7 +41,7 @@
 
 
       <div class="one_quarter">
-        <h6 class="title">Terms & policies</h6>
+        <h6 class="title">Terms and policies</h6>
         <ul class="nospace ">
           <li><a href="faq.php">FAQ</a></li>
           <li><a href="terms.php">Terms and policies</a></li>
@@ -54,7 +54,6 @@
 
 
 
-<!-- JAVASCRIPTS -->
 
 </body>
 </html>
