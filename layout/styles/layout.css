@@ -182,9 +182,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#66CCCC;}
 .overlay::after{color:inherit; background-color:rgba(0,0,0,.3);}
 
 .inherit{color:inherit;}
-
-.btn, .btn.inverse:hover{color:black; background-color:white; border-color:#66CCCC;}
-.btn:hover, .btn.inverse{color:inherit; font-color:white; background-color:transparent; border-color:white;}
+.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#66CCCC; border-color:#66CCCC;}
+.btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
 
 blockquote::before{color:rgba(255,255,255,.2);}
 
