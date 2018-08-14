@@ -21,7 +21,7 @@
     </div>
     <div class="fl_right">
       <ul class="nospace">
-        <li><a href="index.php"><i class="fa fa-lg fa-home"></i></a></li>
+        <li><a href="index.php"><i style="font-size:15px" class="fas fa-home"></i></a></li>
         <li><a href="terms.php">Terms And Policies</a></li>
         <li><a href="faq.php">FAQ</a></li>
         <li><a href="form.php">Register your institute</a></li>
