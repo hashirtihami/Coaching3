@@ -3,7 +3,7 @@
   <div class="wrapper row4">
     <footer id="footer" class="hoc clear"> 
       <div class="one_quarter first">
-        <h6 class="title">Kopedia</h6>
+        <h6 class="title">Copedia</h6>
         <p>We use cookies to help give you the best experience on our website. By continuing without changing your cookie settings, we assume you agree to this. Please read our cookie policy to find out more.</p>
         
       </div>
@@ -13,11 +13,11 @@
         <ul class="nospace linklist contact">
           <li><i class="fa fa-map-marker"></i>
             <address>
-            Kopedia limited, Central Karachi, Pakistan.
+            Copedia limited, Central Karachi, Pakistan.
             </address>
           </li>
           <li><i class="fa fa-phone"></i> +92 323 1234567</li>
-          <li><i class="fas fa-envelope-open"></i> info@kopedia.com</li>
+          <li><i class="fas fa-envelope-open"></i> info@Copedia.com</li>
         </ul>
       </div>
       

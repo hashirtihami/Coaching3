@@ -46,8 +46,8 @@
         <h3 class="heading">unforgettable experience</h3>
       </div>
     </div>
-    <blockquote>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</blockquote>
-    <em class="block btmspace-50 font-xs">Minahil Ovais / minahil@gmail.com</em>
+    <blockquote>"In a city like Karachi, its not easy to find a coaching center of your choice. So when I heard about Copedia it served as a godsend. It meets our needs perfectly in such a busy and metropolitan city."</blockquote>
+    <em class="block btmspace-50 font-xs">Minahil Ovais / A student of SSA </em>
     <footer></footer>
   </article>
 </div>
@@ -93,11 +93,18 @@
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/03.png');">
   <article class="hoc container center"> 
     <h3 class="font-x3">Build your future</h3>
-    <p class="btmspace-50">By starting right away!</p>
-    <footer><a class="inherit" href="#"><i class="fa fa-play-circle fa-4x"></i></a></footer>
+    <p class="btmspace-50">Just a <a href="database.php">click</a> away</p>
+    
   </article>
 </div>
-
+<div class="wrapper row3">
+  <section class="hoc container clear"> 
+    <div class="three_quarter first">
+      <h3 class="nospace">30 DAYS MONEY BACK GUARANTEE</h3>
+      <p class="nospace">If you cancel within 30 days and you're not completely satisfied, we'll give you all your money back. No questions asked.</p>
+    </div>
+    <footer class="one_quarter"><a class="btn" href="form.php">Start your free trial now &raquo;</a></footer>
+  </section>
 </div>
 <!-- Footer Background Image Wrapper -->
 <div class="bgded overlay" style="background-image:url('images/demo/backgrounds/04.png');"> 
