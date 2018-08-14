@@ -41,43 +41,10 @@
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse4">How to add my coaching center in your site? </a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How to add my coaching center in your site? </a>
         </h4>
       </div>
-      <div id="collapse4" class="panel-collapse collapse">
-        <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
-      </div>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse5">How can i search my required coaching centers in your website. </a>
-        </h4>
-      </div>
-      <div id="collapse5" class="panel-collapse collapse">
-        <div class="panel-body">All the institutes are shown <a href="#">here</a> </div>
-      </div>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">How to add my coaching center in your site? </a>
-        </h4>
-      </div>
-      <div id="collapse6" class="panel-collapse collapse">
-        <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
-      </div>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">How to add my coaching center in your site? </a>
-        </h4>
-      </div>
-      <div id="collapse7" class="panel-collapse collapse">
+      <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
       </div>
     </div>
@@ -85,47 +52,73 @@
     <div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse8">How can i search my required coaching centers in your website. </a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">How can i search my required coaching centers in your website. </a>
         </h4>
       </div>
-      <div id="collapse8" class="panel-collapse collapse">
+      <div id="collapse3" class="panel-collapse collapse">
         <div class="panel-body">All the institutes are shown <a href="#">here</a> </div>
       </div>
-    </div>
-
-    <div class="panel panel-default">
+    </div><div class="panel panel-default">
       <div class="panel-heading">
         <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse9">How to add my coaching center in your site? </a>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How to add my coaching center in your site? </a>
         </h4>
       </div>
-      <div id="collapse9" class="panel-collapse collapse">
-        <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
-      </div>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse10">How can i search my required coaching centers in your website. </a>
-        </h4>
-      </div>
-      <div id="collapse10" class="panel-collapse collapse">
-        <div class="panel-body">All the institutes are shown <a href="#">here</a> </div>
-      </div>
-    </div>
-
-    <div class="panel panel-default">
-      <div class="panel-heading">
-        <h4 class="panel-title">
-          <a data-toggle="collapse" data-parent="#accordion" href="#collapse11">How to add my coaching center in your site? </a>
-        </h4>
-      </div>
-      <div id="collapse11" class="panel-collapse collapse">
+      <div id="collapse2" class="panel-collapse collapse">
         <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
       </div>
     </div>
     
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">How can i search my required coaching centers in your website. </a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">All the institutes are shown <a href="#">here</a> </div>
+      </div>
+    </div><div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How to add my coaching center in your site? </a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
+      </div>
+    </div>
+    
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">How can i search my required coaching centers in your website. </a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">All the institutes are shown <a href="#">here</a> </div>
+      </div>
+    </div><div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">How to add my coaching center in your site? </a>
+        </h4>
+      </div>
+      <div id="collapse2" class="panel-collapse collapse">
+        <div class="panel-body">Simply go to the <a href="form.php">form</a> and fill it with valid information.</div>
+      </div>
+    </div>
+    
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h4 class="panel-title">
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">How can i search my required coaching centers in your website. </a>
+        </h4>
+      </div>
+      <div id="collapse3" class="panel-collapse collapse">
+        <div class="panel-body">All the institutes are shown <a href="#">here</a> </div>
+      </div>
+    </div>
 
 
   </div> 
