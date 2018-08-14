@@ -54,49 +54,36 @@
 <div class="wrapper row3">
   <section class="hoc container clear"> 
     <div class="btmspace-50 center">
-      <h2>Viverra blandit metus et</h2>
-      <p>Condimentum cras iaculis urna cursus feugiat nisl vel congue ex proin</p>
+      <h2>For Institutes/Coaching Centers only </h2>
+      <p>You can display your coaching center's info at our website by selecting any of the following deals</p>
     </div>
     <ul class="nospace group">
       <li class="one_third first">
         <article class="excerpt"><a href="#"><img src="images/demo/320x220.png" alt=""></a>
           <div class="excerpttxt">
-            <h6 class="heading font-x1">Feugiat ante ac</h6>
-            <ul class="nospace inline pushright font-xs">
-              <li><i class="fa fa-calendar-o"></i> 03/01/45</li>
-              <li><i class="fa fa-comments"></i> <a href="#">6</a></li>
-              <li><i class="fa fa-eye"></i> 15</li>
-            </ul>
-            <p>Eget pharetra augue sed porta enim in hac habitasse platea dictumst ut lobortis in tellus quis venenatis donec facilisis&hellip;</p>
-            <p><a href="#">Read More &raquo;</a></p>
+            <h6 class="heading font-x1">Deal Silver</h6>
+            <p>With the monthly package you can display your coaching centers information will be displayed for a month, after that it will automatically disappear till the next payment.</p>
+            <h6 style="color:#3C1363;">1000 rps per month only</h6>
           </div>
         </article>
       </li>
       <li class="one_third">
         <article class="excerpt"><a href="#"><img src="images/demo/320x2202.png" alt=""></a>
           <div class="excerpttxt">
-            <h6 class="heading font-x1">Posuere lorem placerat</h6>
-            <ul class="nospace inline pushright font-xs">
-              <li><i class="fa fa-calendar-o"></i> 02/01/45</li>
-              <li><i class="fa fa-comments"></i> <a href="#">4</a></li>
-              <li><i class="fa fa-eye"></i> 10</li>
-            </ul>
+            <h6 class="heading font-x1">Deal Gold</h6>
+
             <p>Nunc non erat molestie faucibus duis aliquam rutrum sapien non pretium tortor lacinia auctor donec et ullamcorper lacus&hellip;</p>
-            <p><a href="#">Read More &raquo;</a></p>
+            <h6 style="color:#3C1363;">5000 rps for 6 months only</h6>
           </div>
         </article>
       </li>
       <li class="one_third">
         <article class="excerpt"><a href="#"><img src="images/demo/320x2203.png" alt=""></a>
           <div class="excerpttxt">
-            <h6 class="heading font-x1">Vel lorem ipsum dolor</h6>
-            <ul class="nospace inline pushright font-xs">
-              <li><i class="fa fa-calendar-o"></i> 01/01/45</li>
-              <li><i class="fa fa-comments"></i> <a href="#">2</a></li>
-              <li><i class="fa fa-eye"></i> 5</li>
-            </ul>
+            <h6 class="heading font-x1">Deal Platinum</h6>
+
             <p>Natoque penatibus et magnis dis parturient montes mus praesent sed massa nisi nunc tincidunt id sapien at maximus curabitur&hellip;</p>
-            <p><a href="#">Read More &raquo;</a></p>
+            <h6 style="color:#3C1363;">10,000 rps per year</h6>
           </div>
         </article>
       </li>
