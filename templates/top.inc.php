@@ -16,7 +16,7 @@
     <div class="fl_left">
       <ul class="nospace">
         <li><i class="fa fa-phone"></i> +92 345 3456789</li>
-        <li><i class="fa fa-envelope-o"></i> info@kopedia.com</li>
+        <li><i class="fas fa-info"></i> info@kopedia.com</li>
       </ul>
     </div>
     <div class="fl_right">
