@@ -73,7 +73,7 @@
         </article>
       </li>
       <li class="one_third">
-        <article class="excerpt"><a href="#"><img src="images/demo/320x220.png" alt=""></a>
+        <article class="excerpt"><a href="#"><img src="images/demo/320x2202.png" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Posuere lorem placerat</h6>
             <ul class="nospace inline pushright font-xs">
@@ -87,7 +87,7 @@
         </article>
       </li>
       <li class="one_third">
-        <article class="excerpt"><a href="#"><img src="images/demo/320x220.png" alt=""></a>
+        <article class="excerpt"><a href="#"><img src="images/demo/320x2203.png" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Vel lorem ipsum dolor</h6>
             <ul class="nospace inline pushright font-xs">
