@@ -11,7 +11,7 @@ $contact= $mysqli->escape_string($_POST['contact']);
 $msg= $mysqli->escape_string($_POST['msg']);
 
 // Check if user with that email already exists
-$result = $mysqli->query("SELECT * FROM influencer WHERE email='$email'") or die($mysqli->error());
+$result = $mysqli->query("SELECT * FROM form WHERE email='$email'") or die($mysqli->error());
 
 // We know user email exists if the rows returned are more than 0
 if ( $result->num_rows > 0 ) {
@@ -50,12 +50,12 @@ else { // Email doesn't already exist in a database, proceed...
         
 
         require'mailsender.php';
-        header("location: index.php"); 
+        header("location: payment.php"); 
 
     }
 
     else {
         $_SESSION['message'] = 'Registration failed!';
-        header("location: error.php");
+        header("location: payment.php");
     }
 }

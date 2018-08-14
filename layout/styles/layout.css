@@ -3,8 +3,7 @@
 @import url("fontawesome-4.6.3.min.css");
 @import url("framework.css");
 
-/* Rows
---------------------------------------------------------------------------------------------------------------- */
+/* Rows */
 .row0, .row0 a{}
 .row1, .row1 a{}
 .row2, .row2 a{}
@@ -13,8 +12,7 @@
 .row5, .row5 a{}
 
 
-/* Top Bar
---------------------------------------------------------------------------------------------------------------- */
+/* Top Bar */
 #topbar{padding:15px 0; font-size:.8rem; text-transform:uppercase;}
 
 #topbar *{margin:0;}
@@ -23,8 +21,7 @@
 #topbar i{margin:0 5px 0 0; line-height:normal;}
 
 
-/* Header
---------------------------------------------------------------------------------------------------------------- */
+/* Header */
 #header{}
 
 #header #logo{margin-top:25px;}
@@ -33,8 +30,7 @@
 #header #logo p{font-size:12px; text-transform:lowercase;}
 
 
-/* Page Intro
---------------------------------------------------------------------------------------------------------------- */
+/* Page Intro */
 #pageintro{padding:150px 0;}
 
 #pageintro article{max-width:100%;}
@@ -45,8 +41,7 @@
 #pageintro article footer{margin-top:80px;}
 
 
-/* Content Area
---------------------------------------------------------------------------------------------------------------- */
+/* Content Area */
 .container{padding:80px 0;}
 
 /* Content */
@@ -73,15 +68,8 @@
 #comments div{margin-bottom:15px;}
 #comments input[type="submit"], #comments input[type="reset"]{display:inline-block; width:auto; min-width:150px; margin:0; padding:8px 5px; cursor:pointer;}
 
-/* Sidebar */
-.container .sidebar{}
 
-.sidebar .sdb_holder{margin-bottom:50px;}
-.sidebar .sdb_holder:last-child{margin-bottom:0;}
-
-
-/* Footer
---------------------------------------------------------------------------------------------------------------- */
+/* Footer */
 #footer{padding:80px 0;}
 
 #footer .title{margin:0 0 50px 0; padding:0; font-size:1.2rem;}
@@ -97,27 +85,16 @@
 #footer .contact li i{display:block; position:absolute; top:0; left:0; width:30px; font-size:16px; text-align:center;}
 
 
-/* Copyright
---------------------------------------------------------------------------------------------------------------- */
+/* Copyright */
 #copyright{padding:50px 0;}
 #copyright *{margin:0; padding:0;}
 
 
-/* Transition Fade
---------------------------------------------------------------------------------------------------------------- */
+/* Transition Fade */
 *, *::before, *::after{transition:all .3s ease-in-out;}
 #mainav form *{transition:none !important;}
 
-
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-
-
-/* Navigation
---------------------------------------------------------------------------------------------------------------- */
+/* Navigation */
 nav ul, nav ol{margin:0; padding:0; list-style:none;}
 
 #mainav, #breadcrumb, .sidebar nav{line-height:normal;}
@@ -179,8 +156,7 @@ nav ul, nav ol{margin:0; padding:0; list-style:none;}
 #backtotop:hover{opacity:1;}
 
 
-/* Tables
---------------------------------------------------------------------------------------------------------------- */
+/* Tables */
 table, th, td{border:1px solid; border-collapse:collapse; vertical-align:top;}
 table, th{table-layout:auto;}
 table{width:100%; margin-bottom:15px;}
@@ -188,22 +164,14 @@ th, td{padding:5px 8px;}
 td{border-width:0 1px;}
 
 
-/* Gallery
---------------------------------------------------------------------------------------------------------------- */
+/* Gallery */
 #gallery{display:block; width:100%; margin-bottom:50px;}
 #gallery figure figcaption{display:block; width:100%; clear:both;}
 #gallery li{margin-bottom:30px;}
 
 
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
 
-
-/* Colours
---------------------------------------------------------------------------------------------------------------- */
+/* Colours */
 body{color:#CBCBCB; background-color:#000000;}
 a{color:#66CCCC;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
@@ -215,8 +183,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#66CCCC;}
 
 .inherit{color:inherit;}
 
-.btn, .btn.inverse:hover{color:#FFFFFF; background-color:#66CCCC; border-color:#66CCCC;}
-.btn:hover, .btn.inverse{color:inherit; background-color:transparent; border-color:inherit;}
+.btn, .btn.inverse:hover{color:black; background-color:white; border-color:#66CCCC;}
+.btn:hover, .btn.inverse{color:inherit; font-color:white; background-color:transparent; border-color:white;}
 
 blockquote::before{color:rgba(255,255,255,.2);}
 
@@ -277,27 +245,18 @@ tr:nth-child(even), #comments li:nth-child(even){color:inherit; background-color
 table a, #comments a{background-color:inherit;}
 
 
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
-/* ------------------------------------------------------------------------------------------------------------ */
 
-
-/* Media Queries
---------------------------------------------------------------------------------------------------------------- */
+/* Media Queries */
 @-ms-viewport{width:device-width;}
 
 
-/* Max Wrapper Width - Laptop, Desktop etc.
---------------------------------------------------------------------------------------------------------------- */
+/* Max Wrapper Width - Laptop, Desktop etc.*/
 @media screen and (min-width:978px){
 	.hoc{max-width:978px;}
 }
 
 
-/* Mobile Devices
---------------------------------------------------------------------------------------------------------------- */
+/* Mobile Devices */
 @media screen and (max-width:900px){
 	.hoc{max-width:90%;}
 
@@ -345,8 +304,7 @@ table a, #comments a{background-color:inherit;}
 }
 
 
-/* Other
---------------------------------------------------------------------------------------------------------------- */
+/* Other*/
 @media screen and (max-width:650px){
 	.scrollable{display:block; width:100%; margin:0 0 30px 0; padding:0 0 15px 0; overflow:auto; overflow-x:scroll;}
 	.scrollable table{margin:0; padding:0; white-space:nowrap;}

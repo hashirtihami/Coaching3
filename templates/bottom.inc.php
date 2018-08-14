@@ -1,6 +1,5 @@
-<!-- Footer Background Image Wrapper -->
+
 <div class="bgded overlay" style="background:black;"> 
-  <!-- ################################################################################################ -->
   <div class="wrapper row4">
     <footer id="footer" class="hoc clear"> 
       <div class="one_quarter first">
@@ -44,9 +43,9 @@
       <div class="one_quarter">
         <h6 class="title">Terms & policies</h6>
         <ul class="nospace ">
-          <li><a href="#">FAQ</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Register your coaching</a></li>
+          <li><a href="faq.php">FAQ</a></li>
+          <li><a href="terms.php">Terms and policies</a></li>
+          <li><a href="form.php">Register your coaching</a></li>
           
         </ul>
       </div>

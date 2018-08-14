@@ -19,7 +19,7 @@
       <p>With copedia you can find the best coaching center according to your location.</p>
       <footer>
         <ul class="nospace inline pushright">
-          <li><a class="btn" style="color:white; " href="database.php">FIND YOUR INSTITUTE</a></li>
+          <li><a class="btn" href="database.php">FIND YOUR INSTITUTE</a></li>
         </ul>
       </footer>
     </article>
