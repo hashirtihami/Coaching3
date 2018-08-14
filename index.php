@@ -72,7 +72,7 @@
           <div class="excerpttxt">
             <h6 class="heading font-x1">Deal Gold</h6>
 
-            <p>Nunc non erat molestie faucibus duis aliquam rutrum sapien non pretium tortor lacinia auctor donec et ullamcorper lacus&hellip;</p>
+            <p>With the monthly package you can display your coaching centers information will be displayed for 6 months, after that it will automatically disappear till the next payment.</p>
             <h6 style="color:#3C1363;">5000 rps for 6 months only</h6>
           </div>
         </article>
@@ -82,7 +82,7 @@
           <div class="excerpttxt">
             <h6 class="heading font-x1">Deal Platinum</h6>
 
-            <p>Natoque penatibus et magnis dis parturient montes mus praesent sed massa nisi nunc tincidunt id sapien at maximus curabitur&hellip;</p>
+            <p>With the monthly package you can display your coaching centers information will be displayed for a year, after that it will automatically disappear till the next payment.</p>
             <h6 style="color:#3C1363;">10,000 rps per year</h6>
           </div>
         </article>
