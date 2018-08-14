@@ -59,7 +59,7 @@
     </div>
     <ul class="nospace group">
       <li class="one_third first">
-        <article class="excerpt"><a href="#"><img src="images/demo/320x220.png" alt=""></a>
+        <article class="excerpt"><a href="form.php"><img src="images/demo/320x220.png" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Deal Silver</h6>
             <p>With the monthly package you can display your coaching centers information will be displayed for a month, after that it will automatically disappear till the next payment.</p>
@@ -68,7 +68,7 @@
         </article>
       </li>
       <li class="one_third">
-        <article class="excerpt"><a href="#"><img src="images/demo/320x2202.png" alt=""></a>
+        <article class="excerpt"><a href="form.php"><img src="images/demo/320x2202.png" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Deal Gold</h6>
 
@@ -78,7 +78,7 @@
         </article>
       </li>
       <li class="one_third">
-        <article class="excerpt"><a href="#"><img src="images/demo/320x2203.png" alt=""></a>
+        <article class="excerpt"><a href="form.php"><img src="images/demo/320x2203.png" alt=""></a>
           <div class="excerpttxt">
             <h6 class="heading font-x1">Deal Platinum</h6>
 
